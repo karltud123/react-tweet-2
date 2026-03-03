@@ -32,6 +32,7 @@ export const TweetMediaVideo = ({ tweet, media }: Props) => {
         controls={!playButton}
         playsInline
         preload="none"
+        referrerPolicy="no-referrer"
         tabIndex={playButton ? -1 : 0}
         onPlay={() => {
           if (timeout) window.clearTimeout(timeout)
