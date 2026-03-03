@@ -3,7 +3,6 @@
   "version": "3.3.0",
   "repository": "https://github.com/karltud123/react-tweet-2.git",
   "license": "MIT",
-  "private": true,
   "author": "Karl Michael",
   "scripts": {
     "build": "turbo run build",
