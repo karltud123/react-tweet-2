@@ -1,8 +1,8 @@
 {
-  "repository": "https://github.com/vercel/react-tweet.git",
+  "repository": "https://github.com/karltud123/react-tweet-2.git",
   "license": "MIT",
   "private": true,
-  "author": "Luis Alvarez (https://twitter.com/luis_fades)",
+  "author": "Karl Michael",
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
